@@ -1,0 +1,29 @@
+.dz{
+    background-color: rgba(36, 88, 185, 0.816);
+    border-radius: 50px;
+    width: 700px;
+    display: block;
+    margin: auto;
+}
+.dz img{
+    width: 200px;
+    height: 200px;
+    padding: 5px ;
+    display: block;
+    margin: auto;
+}
+.dz h2{
+    padding: 30px;
+    margin:20px;
+    text-align: center;
+
+}
+.dz h3{
+    text-align: center;
+    margin:20px;
+
+}
+.dz h4 {
+    text-align: center;
+    padding: 10px;
+}
